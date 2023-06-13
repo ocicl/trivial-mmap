@@ -1,0 +1,10 @@
+* trivial-mmap
+
+A library providing an easy-to-use API for working with memory-mapped files.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zodmaner/trivial-mmap.git   |
+| commit  | 327126b  |
+| systems | trivial-mmap |
+|---------+-------------------------------------------|
+
