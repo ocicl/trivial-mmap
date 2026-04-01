@@ -8,3 +8,4 @@ A library providing an easy-to-use API for working with memory-mapped files.
 | systems | trivial-mmap |
 |---------+-------------------------------------------|
 
+ 
